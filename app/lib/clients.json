@@ -1,0 +1,47 @@
+[
+    {
+        "id": "346367fc-24c5-4e42-880d-1cf05f44d839",
+        "name": "Empresa Alpha",
+        "corporate_name": "Alpha Comércio de Produtos Ltda",
+        "cnpj": "12.345.678/0001-90",
+        "address": "Rua Orvalho, 556 - Jardim São Bento Novo, São Paulo - SP",
+        "email": "contato@alpha.com.br",
+        "website": "www.alpha.com.br"
+    },
+    {
+        "id": "3fea2998-56b8-4573-931e-d82798976ac1",
+        "name": "Beta Soluções",
+        "corporate_name": "Beta Soluções Tecnológicas S.A.",
+        "cnpj": "23.456.789/0001-80",
+        "address": "Rua Meciaçu, 835 - Vila Ipê, Campinas - SP",
+        "email": "contato@beta.com.br",
+        "website": "www.beta.com.br"
+    },
+    {
+        "id": "773f6803-355d-402d-8f8c-017969a56472",
+        "name": "Gamma Serviços",
+        "corporate_name": "Gamma Serviços Gerais Eireli",
+        "cnpj": "34.567.890/0001-70",
+        "address": "Alameda Bela Cintra, 529 - Condomínio Nova São Paulo, Itapevi - SP",
+        "email": "contato@gamma.com.br",
+        "website": "www.gamma.com.br"
+    },
+    {
+        "id": "03a60cd2-9f50-48d7-af10-e6f2321e2989",
+        "name": "Delta Indústrias",
+        "corporate_name": "Delta Indústrias e Comércio Ltda",
+        "cnpj": "45.678.901/0001-60",
+        "address": "Rua Rômulo Milanez, 437 - Parque das Nações, Bauru - SP",
+        "email": "contato@delta.com.br",
+        "website": "www.delta.com.br"
+    },
+    {
+        "id": "1d184709-490b-4466-a8de-e646c3f91cfb",
+        "name": "Epsilon Tech",
+        "corporate_name": "Epsilon Tecnologia da Informação S.A.",
+        "cnpj": "56.789.012/0001-50",
+        "address": "Rua Luiz Carinhato, 563 - Chácara Nunes, Jaú - SP",
+        "email": "contato@epsilon.com.br",
+        "website": "www.epsilon.com.br"
+    }
+]
